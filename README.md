@@ -1,4 +1,7 @@
-### Hi there 👋
+### Oi! Meu nome é Thaiane! 👋
+- 🔭 Eu trabalho com Marketing e Desenvolvimento de Sites em WordPress
+- 🌱 Atualmente eu estou cursando Pós Graduação em Liderança e Inovação na FGV e me especializando ainda mais em WordPress com a EBAC
+- 📫 Entre em contato comigo: Email: thaianeribeirobet@gmail.com | Linkedin: thaianeribeirobet | WhatsApp: (11) 98379-7988
 
 <!--
 **thaiane-bet/thaiane-bet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
